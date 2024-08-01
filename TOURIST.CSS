@@ -1,0 +1,136 @@
+#sectionhome{
+    background-image: url("https://img.freepik.com/free-photo/rear-view-friends-with-backpack-sitting-outdoors_23-2147950681.jpg?t=st=1720969821~exp=1720973421~hmac=b0b94cddbd5b185641b7cb4b42f857d9c41f04b76b39e2e120a95a0cd060a563&w=900");
+    background-size: cover;
+}
+.main-container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+
+#sectioncontent{
+    background-image: url("https://img.freepik.com/free-photo/dry-leaves-dark-background_23-2148207088.jpg?t=st=1720975651~exp=1720979251~hmac=9db74169155edb473dfecc88f1de4411b8ae2f399dd49cca075e718a346fb662&w=360");
+    background-size: cover;
+}
+.first-container{
+    padding: 50px;
+}
+.card{
+    border: 2px solid;
+    padding: 50px;
+    margin: 30px;
+}
+.image{
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+
+#sectionbali{
+    background-image: url("https://img.freepik.com/free-photo/black-mulberry-paper-textured-background_53876-129520.jpg?t=st=1721023243~exp=1721026843~hmac=d6700eab5a6f8900bd84df892ea79f315493a981e9ca4226ca7cec75bfc10c11&w=996");
+    background-size: cover;
+    height: 140vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.carousel-container{ 
+    height: 100px;
+    width: 350px;
+    padding: 30px;
+    
+}
+.image1{
+    width: 600px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.content-container{
+    margin-top: 250px;
+    color:rgb(244, 240, 240);
+    text-align: center;
+}
+.carousel2-container{ 
+    height: 100px;
+    width: 350px;
+    padding: 30px;
+    margin-left: 1100px;
+}
+.button-container{
+    text-align: center;
+    margin: 200px;
+}
+.button1{
+    padding: 10px;
+    background-color: rgb(247, 246, 246);
+    color: rgb(14, 14, 14);
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+#sectionandaman{
+    background-image: url("https://img.freepik.com/free-photo/two-monastera-leaves-black-background_23-2147835077.jpg?uid=R154916474&ga=GA1.1.1668058605.1719446939&semt=ais_user-customized");
+    background-size: cover;
+    height: 130vh;
+}
+.carousel1-container{ 
+    height: 300px;
+    width: 450px;
+    padding:20px;   
+}
+.content1-container{
+    margin-top: 40px;
+    color:rgb(244, 240, 240);
+    text-align: center;
+}
+.carousel3-container{ 
+    height: 300px;
+    width: 450px;
+    padding: 20px; 
+    margin-left: 950px;  
+}
+.button1-container{
+    text-align: center;
+   
+}
+
+#sectionpondicherry{
+    background-image: url("https://img.freepik.com/free-photo/pond-near-forest-sticks-ground-silhouette-rocks-with-fog-surrounding-them_181624-2841.jpg?t=st=1721027360~exp=1721030960~hmac=a132eb05628d089d663929073430eaebeeb1aa0eea74a94d252c8c9cb2b659a9&w=900");
+    background-size: cover;
+}
+.button2-container{
+    text-align: center;
+   
+}
+.button2{
+    padding: 10px;
+    background-color: rgb(14, 13, 13);
+    color: rgb(248, 245, 245);
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+
+#sectionmaldives{
+    background-image: url("https://img.freepik.com/free-photo/delicate-branch-black_23-2147811271.jpg?t=st=1721027445~exp=1721031045~hmac=a9d34c2c7f7fb4d17d7e285c8d251ea96c3f945272ed0453f2aca27dced961c8&w=996");
+    background-size: cover;
+}
+
+
+#sectionkerala{
+    background-image: url("https://img.freepik.com/free-vector/gradient-black-backgrounds-with-golden-frames_23-2149166648.jpg?t=st=1721027918~exp=1721031518~hmac=50b34611285650d336d0313edcf0a09cc73d03990e34dbb3cd9ef8ea3c243393&w=1380 ");
+    background-size: cover ;
+}
+
+
+#sectionkanyakumari{
+    background-image: url("https://img.freepik.com/free-vector/gradient-black-background-with-golden-textures_52683-76748.jpg?t=st=1721028231~exp=1721031831~hmac=a5f8f8e94a5871539dfc141484e0e8a4657c5fd6df19e8fb7d31771ea2fc8552&w=1380 ");
+    background-size: cover;
+}
